@@ -5,7 +5,7 @@ import '../styles/playerStats.css';
 const PlayersStats = () => {
     return (
         <div id='playerStats'>
-            <h1>Jeffey Le LEVEL 1</h1>
+            <h1>Jeffey Le LEVEL 10</h1>
             <div id='playerStats__lines'>
                 <span id='playerStats__lines__thick'></span>
                 <span id='playerStats__lines__thin'></span>
