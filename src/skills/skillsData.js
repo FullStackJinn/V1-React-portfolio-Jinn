@@ -5,36 +5,40 @@ const skills = {
     },
     {
         title: "CSS",
-        level: 4,
+        level: 2,
     },
     {
         title: "Javascript",
-        level: 4,
+        level: 3,
     },
     {
         title: "React",
-        level: 4,
+        level: 2,
     },
     ],
     2: [ {
         title: "Node.js",
-        level: 4,
+        level: 2,
     },
     {
         title: "SQL",
-        level: 4,
+        level: 1,
     },
     {
         title: "MongoDB",
-        level: 4,
+        level: 1,
     },
     {
         title: "Git",
-        level: 4,
+        level: 1,
     },
     {
         title: "Express.js",
-        level: 4,
+        level: 1,
+    },
+    {
+        title: "REST",
+        level: 1,
     },
     ],
 };
