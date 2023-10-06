@@ -42,7 +42,7 @@
     background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
   }
   .project-item.activeProject:nth-child(3) {
-    background: linear-gradient(270deg, #ffffff00, var(--pink) 70%);
+    background: linear-gradient(270deg, #ffffff00, var(--orange) 70%);
   }
   
   .project-sub-container {
@@ -67,7 +67,7 @@
   }
   
   .link-container a {
-    color: white;
+    color: orangered;
     text-decoration: none;
     margin-top: 1rem;
     width: 50%;
