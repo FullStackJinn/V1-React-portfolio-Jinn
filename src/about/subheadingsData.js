@@ -13,7 +13,7 @@ const subheadingsData = {
     ],
 2: [
     {
-        title: "2016 Masters Degree",
+        title: "Full-Stack Web Development Bootcamp",
         content: (
             <>
             <p>
@@ -23,7 +23,7 @@ const subheadingsData = {
         ),
     },
     {
-        title: "2016 Masters Degree",
+        title: "Node.js Developer Course",
         content: (
             <>
             <p>
@@ -33,17 +33,7 @@ const subheadingsData = {
         ),
     },
     {
-        title: "2016 Masters Degree",
-        content: (
-            <>
-            <p>
-                Lorem ipsum dolor sit amet
-            </p>
-            </>
-        ),
-    },
-    {
-        title: "2016 Masters Degree",
+        title: "React - The Complete Guide",
         content: (
             <>
             <p>
@@ -55,27 +45,7 @@ const subheadingsData = {
 ],
 3: [
     {
-        title: "2022 Front End Developer",
-        content: (
-            <>
-            <p>
-                Lorem ipsum dolor sit amet
-            </p>
-            </>
-        ),
-    },
-    {
-        title: "2020 UX Designer",
-        content: (
-            <>
-            <p>
-                Lorem ipsum dolor sit amet
-            </p>
-            </>
-        ),
-    },
-    {
-        title: "2017 IT consultant",
+        title: "Junior Frontend Developer",
         content: (
             <>
             <p>
