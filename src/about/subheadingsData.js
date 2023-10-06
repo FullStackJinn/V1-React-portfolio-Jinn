@@ -5,8 +5,14 @@ const subheadingsData = {
             content: (
                 <>
                 <p>
-                    Lorem ipsum dolor sit amet
+                    Hello and welcome to my website portfoio! As you can see I am a huge anime fan.
+                    Other than watching and keeping up with latest animes; I like to code and play video games such as 
+                    League of Legends. During the time working as a lead technician assemblying butterfly knife trainers to later solving web dev problems.
+                    My interest grew and turned into a bottomless well. Combining this with my ability to learning
+                    quickly and strong work ethic, I am looking for a company that I would be able to grow and learn from as well as
+                    contribute my skills and perspectives. 
                 </p>
+                <p><em>If you don't take risks, you can't create a future</em> - Monkey D. Luffy</p>
                 </>
             ),
         },

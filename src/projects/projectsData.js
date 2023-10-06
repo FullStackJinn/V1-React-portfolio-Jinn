@@ -4,17 +4,16 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "React Web Portfolio",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Website Portfolio built using React.js, React DOM, EmailJS, HTM5, and CSS3.
         </p>
       </>
     ),
-    github: "https://github.com",
+    github: "https://github.com/FullStackJinn/V1-React-portfolio-Jinn",
     demo: "https://netlify.com",
   },
   2: {
