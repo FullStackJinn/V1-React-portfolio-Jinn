@@ -14,7 +14,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/FullStackJinn/V1-React-portfolio-Jinn",
-    demo: "https://netlify.com",
+    demo: "https://jeff-web-portfolio.netlify.app/",
   },
   2: {
     title: "UNDER CONSTRUCTION",
