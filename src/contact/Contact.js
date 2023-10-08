@@ -5,6 +5,7 @@ import "../styles/contact.css";
 const Contact = () => {
   return (
     <>
+    <h1>UNDER CONSTRUCTION</h1>
       <ContactMenu />
     </>
   );

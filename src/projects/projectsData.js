@@ -17,7 +17,7 @@ const projects = {
     demo: "https://netlify.com",
   },
   2: {
-    title: "Productivity App",
+    title: "UNDER CONSTRUCTION",
     image: projectTwo,
     description: (
       <>
@@ -31,7 +31,7 @@ const projects = {
     demo: "https://netlify.com",
   },
   3: {
-    title: "Food Delivery App",
+    title: "UNDER CONSTRUCTION",
     image: projectThree,
     description: (
       <>

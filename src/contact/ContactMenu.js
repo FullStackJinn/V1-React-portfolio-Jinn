@@ -59,7 +59,7 @@ export default function ContactMenu() {
         setIsLoading(false);
       });
   };
-
+  
   const validateForm = () => {
     const { name, email, message } = formData;
     const errors = {};
