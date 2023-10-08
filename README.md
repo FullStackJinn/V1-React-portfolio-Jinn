@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+Jeffey Le's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Technologies Used:
+React
+Javascript
+CSS
 
 ### `npm start`
 
