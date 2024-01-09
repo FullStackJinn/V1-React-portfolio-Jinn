@@ -5,14 +5,10 @@ const subheadingsData = {
             content: (
                 <>
                 <p>
-                    Hello and welcome to my website portfoio! As you can see I am a huge anime fan.
-                    Other than watching and keeping up with latest animes; I like to code and play video games such as 
-                    League of Legends. During the time working as a lead technician assemblying butterfly knife trainers to later solving web dev problems.
-                    My interest grew and turned into a bottomless well. Combining this with my ability to learning
-                    quickly and strong work ethic, I am looking for a company that I would be able to grow and learn from as well as
-                    contribute my skills and perspectives. 
+                Welcome to my portfolio! Here, you'll get to know a bit about me and explore some of my work. I'm currently based in the Bay Area, California. Apart from coding, my main hobbies include staying up-to-date with the latest anime,
+                 playing League of Legends, and day trading specifically NQ (Nasdaq-100 Index) and ES (E-mini S&P 500 futures) contracts.
                 </p>
-                <p><em>If you don't take risks, you can't create a future</em> - Monkey D. Luffy</p>
+                
                 </>
             ),
         },
