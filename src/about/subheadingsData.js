@@ -21,7 +21,7 @@ const subheadingsData = {
             <h4>2022-2023</h4>
             <p>
                 Taught by Dr.Angela Yu. This bootcamp covers front and 
-                back end deveopment using a massive amount of tools and technologies,
+                back end deveopment using a wide range of tools and technologies,
                 including: HTML5, CSS3, Javascript ES6, NODE.js, REACT,js, EXPRESS,js.
                 
             </p>
