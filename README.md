@@ -1,5 +1,7 @@
 Jeffey Le's Portfolio
 
+Live deployed site: https://jeff-web-portfolio.netlify.app/
+
 Technologies Used:
 React
 Javascript
